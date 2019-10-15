@@ -1,21 +1,25 @@
-**List of some open source projects about farming. Has so much data.**
+**1. List of some open source projects about farming. Has so much data.**
 
 https://github.com/beaorn/awesome-agriculture 
 
-**Agri Android app made entirely using java**
+
+**2. Agri Android app made entirely using java**
 
 https://youtu.be/-mDYZHtcagk
 
 https://github.com/sukhbir-singh/AgriculturalApp
 
-**Agri chatbot AI based**
+
+**3. Agri chatbot AI based**
 
 https://github.com/dhishku/AgriBot
 
-**Repo with some good agri photos, ppts and ideas**
+
+**4. Repo with some good agri photos, ppts and ideas**
 
 https://github.com/akshatvg/AAGS--Lets-Green-It
 
-**One of the best farm management software. To get inspired**
+
+**5. One of the best farm management software. To get inspired**
 
 https://www.agrivi.com/en
