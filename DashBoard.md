@@ -11,3 +11,7 @@ https://github.com/sukhbir-singh/AgriculturalApp
 **Agri chatbot AI based**
 
 https://github.com/dhishku/AgriBot
+
+**Repo with some good agri photos, ppts and ideas**
+
+https://github.com/akshatvg/AAGS--Lets-Green-It
