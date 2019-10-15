@@ -15,3 +15,7 @@ https://github.com/dhishku/AgriBot
 **Repo with some good agri photos, ppts and ideas**
 
 https://github.com/akshatvg/AAGS--Lets-Green-It
+
+**One of the best farm management software. To get inspired**
+
+https://www.agrivi.com/en
