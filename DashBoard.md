@@ -15,5 +15,11 @@
 - https://github.com/akshatvg/AAGS--Lets-Green-It
 
 
-**5. One of the best farm management software. To get inspired**
+**5. One of the best farm management website(not app). To get inspired**
 - https://www.agrivi.com/en
+
+**6. Gramophone - android app ( not opensource ). Just for reference**
+- https://play.google.com/store/apps/details?id=agstack.gramophone&hl=en_US
+
+**7. Official Indian government app for farmers ( not open source, only hindi ). just for reference**
+- https://play.google.com/store/apps/details?id=com.krishi.krishi&hl=en_IN
