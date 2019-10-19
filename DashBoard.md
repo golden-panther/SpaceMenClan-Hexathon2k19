@@ -23,3 +23,6 @@
 
 **7. Official Indian government app for farmers ( not open source, only hindi ). just for reference**
 - https://play.google.com/store/apps/details?id=com.krishi.krishi&hl=en_IN
+
+**8. Weather html widget**
+- https://github.com/timothyrobards/Weather-Widget
