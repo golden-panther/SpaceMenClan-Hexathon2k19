@@ -26,3 +26,6 @@
 
 **8. Wordpress Api**
 - https://github.com/beaorn/awesome-agriculture
+
+icons
+-https://www.w3schools.com/icons/fontawesome5_icons_maps.asp
